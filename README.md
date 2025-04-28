@@ -10,13 +10,19 @@ _Aplikasi absensi mahasiswa_
 
 ## 📱 Tampilan Aplikasi
 <p align="center">
-  <img src="/ss/CreateAccount-Andro.jpg" width="180" alt="Create Account">
-  <img src="/ss/SignIn-Andro.jpg" width="180" alt="Sign In">
-  <img src="/ss/MainScreen-Andro.jpg" width="180" alt="Main Screen">
-  <img src="/ss/ChatWithOther-Andro.jpg" width="180" alt="Chat Screen">
-  <img src="/ss/AssitenAI-Andro.jpg" width="180" alt="AI Assistant">
+  <img src="/ui/loadingscreen.jpg" width="180" alt="Loading Screen Page">
+  <img src="/ui/login.jpg" width="180" alt="Login Page">
+  <img src="/ui/register.jpg" width="180" alt="Register Page">
+  <img src="/ui/home.jpg" width="180" alt="Home Page">
+  <img src="/ui/jadwal.jpg" width="180" alt="Jadwal Page">
+  <img src="/ui/pengajuanizin.jpg" width="180" alt="Page Pengajuan Izin">
+  <img src="/ui/profilesetting.jpg" width="180" alt="Profile Setting Page">
+  <img src="/ui/riwayatkehadiran.jpg" width="180" alt="Riwayat Kehadiran Page">
 </p>
 
-## Storyboard
+## 📓 Storyboard
 
-## Link
+## 🔗 Link
+[Trello](https://trello.com/invite/b/67cfa84b4c7ca3082fef52a7/ATTI6a44c2d74fc91c7ff389174f20e2af8d7440B962/absensi-mobile)
+&
+[Figma](https://www.figma.com/design/dTXZeqWorBmRPnhn8V0MwI/Project_Mobile_2---ABSENSI--?node-id=0-1&t=fGjbJYOXTumcXe77-1)
