@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658012907295",
+    "project_id": "absensimobile-71588",
+    "storage_bucket": "absensimobile-71588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658012907295:android:c98c048fe580d918b0b22a",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwU50cqW9ZMdkoXP-OIv-ZtDJkLFUqYGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

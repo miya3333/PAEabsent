@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="112dp"
+    android:padding="12dp"
+    android:layout_marginBottom="12dp"
+    android:orientation="horizontal"
+    android:background="@drawable/r_two">
+
+    <!-- Kanan -->
+    <LinearLayout
+        android:layout_width="96dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/r_three"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textTanggal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="21"
+            android:textColor="@color/white"
+            android:textSize="32sp"/>
+        <TextView
+            android:id="@+id/textHari"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:text="Kamis"
+            android:textColor="@color/white"
+            android:textSize="12sp"/>
+    </LinearLayout>
+
+    <!-- Kiri -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textMatkul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:text="Bisnis Elektronik"
+            android:textColor="@color/green"
+            android:textSize="12sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Absen"
+                    android:textColor="@color/green"
+                    android:textSize="12sp"/>
+                <TextView
+                    android:id="@+id/textJamAbsen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="07:58"
+                    android:textColor="@color/green"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Jadwal"
+                    android:textColor="@color/green"
+                    android:textSize="12sp"/>
+                <TextView
+                    android:id="@+id/textJamJadwal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="09:31"
+                    android:textColor="@color/green"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kehadiran"
+                    android:textColor="@color/green"
+                    android:textSize="12sp"/>
+                <TextView
+                    android:id="@+id/textStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_bold"
+                    android:text="Hadir"
+                    android:textColor="@color/green"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
