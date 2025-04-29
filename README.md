@@ -21,9 +21,9 @@ _Aplikasi absensi mahasiswa_
 </p>
 
 ## 📓 Storyboard
-<img src="/ui/storyboard.png" width="100%" alt="Storyboard"> 
+<img src="/ui/mockup.jpg" width="100%" alt="Storyboard"> 
 
 ## 🔗 Link
 [Trello](https://trello.com/invite/b/67cfa84b4c7ca3082fef52a7/ATTI6a44c2d74fc91c7ff389174f20e2af8d7440B962/absensi-mobile)
 &
-[Figma](https://www.figma.com/design/dTXZeqWorBmRPnhn8V0MwI/Project_Mobile_2---ABSENSI--?node-id=0-1&t=fGjbJYOXTumcXe77-1)
+[Figma](https://www.figma.com/design/dTXZeqWorBmRPnhn8V0MwI/Project_Mobile_2---ABSENSI--?node-id=207-16&t=vK2ZcA0Rec93fNpJ-1)
