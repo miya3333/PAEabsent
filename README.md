@@ -21,7 +21,7 @@ _Aplikasi absensi mahasiswa_
 </p>
 
 ## 📓 Storyboard
-<img src="ui/mockup.jpg" width="100%" alt="Storyboard"> 
+<img src="ui/story.jpg" width="100%" alt="Storyboard"> 
 
 ## 🔗 Link
 [Trello](https://trello.com/invite/b/67cfa84b4c7ca3082fef52a7/ATTI6a44c2d74fc91c7ff389174f20e2af8d7440B962/absensi-mobile)
